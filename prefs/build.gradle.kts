@@ -16,7 +16,6 @@ dependencies {
     implementation(libs.bundles.appCompat)
     implementation(libs.timber)
     implementation(libs.securityCrypto)
-    implementation(libs.secureStorage)
     implementation(libs.kotlinCoroutines)
     implementation(libs.kotlinSerialization)
 }

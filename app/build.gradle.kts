@@ -81,7 +81,6 @@ dependencies {
     implementation(libs.timber)
     implementation(libs.webkit)
     implementation(libs.securityCrypto)
-    implementation(libs.secureStorage)
     implementation(libs.lottie)
     implementation(libs.kotlinCoroutines)
     implementation(libs.workManager)
