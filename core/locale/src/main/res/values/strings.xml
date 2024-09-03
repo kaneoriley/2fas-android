@@ -759,10 +759,10 @@
     <string name="tokens__add_manual_advanced">Advanced token settings</string>
     <string name="tokens__add_manual_additional_info">Additional info</string>
     <string name="tokens__add_manual_advanced_description">Changing default token settings is not recommended. Do so only when your 2FA provider requires it and when you have clear instructions.</string>
-    <string name="settings__option_screenshots_description">Allow screenshots of the app for 5 minutes.</string>
+    <string name="settings__option_screenshots_description">Allow screenshots of the app.</string>
     <string name="settings__option_screenshots">Allow screenshots</string>
     <string name="settings__option_screenshots_confirm_title">Allow screenshots of the app?</string>
-    <string name="settings__option_screenshots_confirm_description">Are you sure? This option allows you to screenshot and record any screen within the app. However, this will also allow any external attempts of capturing screens in the app.\nFor safety reasons, this option will be automatically turned off after 5 minutes.</string>
+    <string name="settings__option_screenshots_confirm_description">Are you sure? This option allows you to screenshot and record any screen within the app. However, this will also allow any external attempts of capturing screens in the app.</string>
     <string name="social__social_media">Social media links</string>
     <string name="social__discord">Discord</string>
     <string name="social__youtube">YouTube</string>
