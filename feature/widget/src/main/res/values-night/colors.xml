@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary">#ED1C24</color>
+    <color name="primary">#33b5e5</color>
     <color name="background">#101116</color>
     <color name="onSurface">#FFFFFF</color>
     <color name="iconTint">#636363</color>

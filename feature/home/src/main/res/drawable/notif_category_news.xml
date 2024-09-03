@@ -8,23 +8,23 @@
       android:strokeLineJoin="round"
       android:strokeWidth="2.99999"
       android:fillColor="#00000000"
-      android:strokeColor="#ED1C24"/>
+      android:strokeColor="#33b5e5"/>
   <path
       android:pathData="M49.434,41.77C53.106,40.761 54.674,34.545 52.935,27.887C51.196,21.229 46.81,16.65 43.137,17.66"
       android:strokeLineJoin="round"
       android:strokeWidth="2.99999"
       android:fillColor="#00000000"
-      android:strokeColor="#ED1C24"/>
+      android:strokeColor="#33b5e5"/>
   <path
       android:pathData="M46.992,4.709L3.757,32.055C3.757,32.055 1.612,35.796 3.303,42.108C4.833,47.815 8.856,51.083 8.856,51.083L58.937,51.083"
       android:strokeLineJoin="round"
       android:strokeWidth="2.99999"
       android:fillColor="#00000000"
-      android:strokeColor="#ED1C24"/>
+      android:strokeColor="#33b5e5"/>
   <path
       android:pathData="M18.188,51.184L30.077,63.773C30.582,64.307 31.339,64.522 32.049,64.331L36.9,63.032C38.162,62.694 38.766,61.257 38.125,60.118L32.956,50.937"
       android:strokeLineJoin="round"
       android:strokeWidth="2.99999"
       android:fillColor="#00000000"
-      android:strokeColor="#ED1C24"/>
+      android:strokeColor="#33b5e5"/>
 </vector>

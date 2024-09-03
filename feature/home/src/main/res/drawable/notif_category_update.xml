@@ -12,17 +12,17 @@
         android:strokeWidth="5.99998"
         android:fillColor="#00000000"
         android:fillType="evenOdd"
-        android:strokeColor="#ED1C24"/>
+        android:strokeColor="#33b5e5"/>
   </group>
   <path
       android:pathData="M33.84,43.207C28.664,43.207 24.469,39.012 24.469,33.837C24.469,28.66 28.665,24.465 33.84,24.465C39.015,24.465 43.212,28.66 43.212,33.837C43.212,39.012 39.015,43.207 33.84,43.207Z"
       android:strokeWidth="2.99999"
       android:fillColor="#00000000"
-      android:strokeColor="#ED1C24"/>
+      android:strokeColor="#33b5e5"/>
   <path
       android:pathData="M33.838,65.677C51.422,65.677 65.681,51.424 65.681,33.84C65.681,25.352 62.361,17.641 56.95,11.934M33.838,1.996C16.253,1.996 2,16.25 2,33.84C2,42.79 5.693,50.877 11.638,56.661"
       android:strokeWidth="2.99999"
       android:fillColor="#00000000"
-      android:strokeColor="#ED1C24"
+      android:strokeColor="#33b5e5"
       android:strokeLineCap="round"/>
 </vector>
