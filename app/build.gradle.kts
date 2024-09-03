@@ -15,7 +15,7 @@ android {
     val versionCodeOffset = 5000000
 
     defaultConfig {
-        applicationId = "com.twofasapp"
+        applicationId = "com.twofasapp.lennox"
         versionName = "5.4.5"
         versionCode = 5000022
     }
